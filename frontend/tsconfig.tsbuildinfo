@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/stagetimeline.tsx","./src/components/statusbadge.tsx","./src/hooks/usepolling.ts","./src/pages/editorpage.tsx","./src/pages/loginpage.tsx","./src/pages/manuscriptdetailpage.tsx","./src/pages/manuscriptspage.tsx","./src/pages/submitpage.tsx"],"errors":true,"version":"5.9.3"}
